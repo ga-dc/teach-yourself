@@ -66,8 +66,6 @@ You may chose from but are not limited to following...
 - Python / [Django](https://www.djangoproject.com/)
 - [Elm](http://elm-lang.org/)
 
-> **DO NOT** pick React since we will be learning about that next week.
-
 ## Deliverables
 
 **NO LATER THAN 11:00AM:** Each team must submit a Git issue to the `sweet-libs` repository indicating...
